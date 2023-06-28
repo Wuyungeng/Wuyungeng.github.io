@@ -4,38 +4,26 @@
   
     
     <entry>
-      <title>testcover</title>
-      <link href="/post/d554dc11.html"/>
-      <url>/post/d554dc11.html</url>
+      <title>statement</title>
+      <link href="/post/c0db5176.html"/>
+      <url>/post/c0db5176.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>本博客博主目前忙于学习其他知识</p><p>无暇顾及博客搭建、完善</p>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>致敬入门</title>
-      <link href="/post/47c8c304.html"/>
-      <url>/post/47c8c304.html</url>
+      <title>ForStudy</title>
+      <link href="/post/5058cb95.html"/>
+      <url>/post/5058cb95.html</url>
       
-        <content type="html"><![CDATA[<p>这是我所学的第二门编程语言java,谨以此纪念。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">HelloWorld</span>&#123;<br>    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span>&#123;<br>        System.out.println(<span class="hljs-string">&quot;Hello World!&quot;</span>);<br>    &#125;<br>&#125;<br></code></pre></td></tr></table></figure><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-comment">/*</span><br><span class="hljs-comment"> 运行结果</span><br><span class="hljs-comment"> Hello World</span><br><span class="hljs-comment"> */</span><br></code></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>目前啥也没有</p>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> HelloWrold </tag>
-            
-        </tags>
       
     </entry>
     
