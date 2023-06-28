@@ -21,7 +21,7 @@
       <link href="/post/5058cb95.html"/>
       <url>/post/5058cb95.html</url>
       
-        <content type="html"><![CDATA[<p>目前啥也没有</p>]]></content>
+        <content type="html"><![CDATA[<p>博客的搭建，我使用的是hexo(因为是开课之前就搭好了)，因此接下来我所遇到的问题在Hugo搭建博客时不一定会遇到</p><p>因为问题之前都解决了，所以没有 问题相关图片 O.o</p><p>First.</p><p>使用hexo搭建博客时需要下载Node.js</p><p>在全局安装时会遇到一个问题</p><p>下面是全局安装的指令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">npm install express -g<br></code></pre></td></tr></table></figure><p>根据其他博主的hexo搭建博客教程我也遇到了同样的问题，就是全局安装时的报错</p><p>根据教程只需要把  用户名(User)文件夹下的npmrc文件删除即可</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">C:\Users\(用户名)\*.npmrc<br></code></pre></td></tr></table></figure><p>确实奏效，不过.npmrc具体作用我目前并不是很清楚</p><p>Second.</p><p>网络问题，应该也算一个核心问题，我之前被这个问题困扰挺久了</p><p>在使用hexo搭建博客时，有些操作需要与GitHub连接，比如SSH key(密钥)，博客的部署</p><p>博客部署</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plaintext">Hexo d<br></code></pre></td></tr></table></figure><p>这一部经常会部署不成功，不过原因基本上是网络问题</p><p>我在百度上并没有找到实际的解决方案</p><p>一开始我使用VPN但并没有多少成效，之后关闭VPN却可以成功</p><p>经过了很多次的尝试，我认为</p><p>GitHub是国外的，在国内网络与国外的连接并不是很稳定，如果不挂VPN有时连GitHub都登不上，而有时候可以，在不挂VPN时能够连接上GitHub(这个时候我认为是与GitHub连接比较稳定的时候)，这个时候去部署就可以成功</p><p>但是如果使用VPN去尝试部署，在我的个人电脑上是没有成功经历的，不过在其他人的电脑上是可以成功的(这个问题我并不是很清楚)</p><p>总结</p><p>只要在不挂VPN时能够较为稳定的连接上GitHub，“部署”这一步就基本上没有很大的问题</p><p>关于具体解决网络稳定的问题，我目前并没有很好的解决办法</p><p>关于其他的问题我有点忘了，不过基本上都只是个别代码错误或者命令位置不对</p>]]></content>
       
       
       
